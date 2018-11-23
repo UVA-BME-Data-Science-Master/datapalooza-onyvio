@@ -1,0 +1,34 @@
+---
+title: "BME 4550 - Datapalooza Report"
+output:
+  html_document:
+    df_print: paged
+---
+
+###Datapalooza was a great event to learn more about the impact of data science, especially at UVa. The event started with a fire-side chat with Phil Bourne and Jim Ryan. I had never heard the new UVa president speak so I was glad to listen in. I was very pleased with the conversation, especially the fact that Jim Ryan wants to take a more analytical approach to teaching, backed by statistics and data science. Ryan stated the importance of incorporating data science into K-12 education, which I certainly agree with and I am familiar with programs that have already done that.
+
+#\  
+
+###Another UVa-centered event was the Machine Learning presentation with Dr. Naegle, who will be teaching capstone next semester. To be honest I was never really familiar with machine learning. To me, it wasn't much more than a buzzword. At least until the presentation! I was familiar with some of the terminology (we covered clustering) but a majority of it was over my head. The important part was that other languages are useful for the data science community. For some reason I had this idea that the majority of machine learning was done in R.
+
+#\  
+
+###There were a decent amount of BME data science presentations at Datapalooza. Dr. Meyer presented on the use of data science for identifying Hypertrophic Cardiomyopathy (HCM) biomarkers. The current method for identifying HCM biomarkers only incorporated a few metrics, while Dr. Meyer's lab was focused on classifying six different labels. The incorporation of machine learning techniques improves their method by assisting in image analysis and label detection.
+
+#\  
+
+###Other presentations focused on topics I would not have expected, namely plagiarism detection and a deep racing AI. The plagiarism detection used feature extraction and clustering of data to interpret whether the scanned work matched clusters in the database. I never really thought about how plagiarism algorithms work but this was a good introduction to the subject. The deep racing AI focused on teaching autonomous vehicles to handle fringe cases (how can an AI react to unpredictable situations)? The presentation included a model raceway with AI training data sets. They could even simulate how to react to a drunk driver on the road! I found this super interesting because we had recently discussed autonomous vehicles in my STS class.
+
+#\  
+
+###Out of all the Datapalooza presentations I found the keynote speech to be the most impactful. Perhaps that is the purpose of a keynote speech... Regardless, the message of "the government needs you" was empowering. Policy making regarding data science can directly impact issues in the world. A few examples included a fungus that is killing coffee in the "bean belt," partially due to climate change. The coffee problem also impacts the U.S. economy, therefore climate change is more than just a threat to humanity, it's a threat to the thing that (*cough*) the current administration seems to care most about. Money. 
+
+#\  
+
+###The keynote speech did not just mention the scary future of climate change, it also touched on the potential dangers of AI. Machine learning techniques can be really good at learning, but not always at learning the desired art. Examples of identifying wolves by the snowy background instead of by unique features (therefore confusing them with the Siberian Husky) were shown. More significantly, law enforcement who use facial recognition and assign scores based on the image have unfairly impacted people of color. In one case, causing a man to be given a worse sentence that deserved. Clearly our future will be AI driven, but this was a nice refresher that these technologies have a long way to go before they can be trusted and incorporated into our society. Overall I thought the Datapalooza event was informative, encouraging, and a bit scary. Data science is clearly permeating every aspect of our society and I look forward to seeing how it shapes our future.
+
+#\  
+
+##Have a great Fall break!
+
+##-Anthony (Tony) DeNovio
